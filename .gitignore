@@ -3,6 +3,7 @@ example/result/
 tests/
 .buildpath
 .project
+.idea
 .settings/
 *.zip
 *.sh
